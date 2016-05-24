@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/user/Documents/fannco.symfony/app/config'
+let g:netrw_dirhist_2='/Users/user/Documents/fannco.symfony/src/Foc/AdminBundle/Tests/Controller'
+let g:netrw_dirhist_3='/Users/user/Documents/fannco.symfony/vendor/jms/payment-core-bundle'
+let g:netrw_dirhist_4='/etc/aerospike'
+let g:netrw_dirhist_5='/root/.ssh'
+let g:netrw_dirhist_6='/opt/ws/modules'
+let g:netrw_dirhist_7='/opt/ws'
+let g:netrw_dirhist_8='/opt/ws/test'
