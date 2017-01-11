@@ -1,0 +1,137 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "loopback-component-admin",
+        "scope": null,
+        "escapedName": "loopback-component-admin",
+        "name": "loopback-component-admin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/opt/headcheck"
+    ]
+  ],
+  "_from": "loopback-component-admin@latest",
+  "_id": "loopback-component-admin@0.0.7",
+  "_inCache": true,
+  "_location": "/loopback-component-admin",
+  "_nodeVersion": "5.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/loopback-component-admin-0.0.7.tgz_1467334068681_0.4791105631738901"
+  },
+  "_npmUser": {
+    "name": "bolamn",
+    "email": "nathan@bolamn.com"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {
+    "async": "2.1.4",
+    "bcryptjs": "2.4.0",
+    "body-parser": "1.15.2",
+    "canonical-json": "0.0.4",
+    "cookie-parser": "1.4.3",
+    "cors": "2.8.1",
+    "debug": "2.2.0",
+    "depd": "1.1.0",
+    "ejs": "2.5.5",
+    "errorhandler": "1.5.0",
+    "eventemitter2": "2.2.1",
+    "express": "4.14.0",
+    "inflection": "1.10.0",
+    "isemail": "1.2.0",
+    "jayson": "1.2.2",
+    "js2xmlparser": "1.0.0",
+    "loopback-connector": "2.7.1",
+    "loopback-context": "1.0.0",
+    "loopback-phase": "1.4.1",
+    "minimatch": "3.0.3",
+    "mux-demux": "3.7.9",
+    "node-uuid": "1.4.7",
+    "nodemailer": "2.7.0",
+    "nodemailer-stub-transport": "1.1.0",
+    "request": "2.79.0",
+    "serve-favicon": "2.3.2",
+    "shortid": "2.2.6",
+    "sse": "0.0.6",
+    "stable": "0.1.5",
+    "strong-globalize": "2.8.0",
+    "traverse": "0.6.6",
+    "uid2": "0.0.3",
+    "underscore.string": "3.3.4",
+    "xml2js": "0.4.17"
+  },
+  "_requested": {
+    "raw": "loopback-component-admin",
+    "scope": null,
+    "escapedName": "loopback-component-admin",
+    "name": "loopback-component-admin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/loopback-component-admin/-/loopback-component-admin-0.0.7.tgz",
+  "_shasum": "4deb0cb7606ea23d463817e2e98e63fa171eb494",
+  "_shrinkwrap": null,
+  "_spec": "loopback-component-admin",
+  "_where": "/opt/headcheck",
+  "author": {
+    "name": "BoLaMN",
+    "url": "https://github.com/BoLaMN"
+  },
+  "bugs": {
+    "url": "https://github.com/BoLaMN/loopback-component-admin/issues"
+  },
+  "dependencies": {
+    "loopback": "^2.26.0",
+    "loopback-sdk-angular": "^1.6.0"
+  },
+  "description": "[![Join the chat at https://gitter.im/BoLaMN/loopback-component-admin](https://badges.gitter.im/BoLaMN/loopback-component-admin.svg)](https://gitter.im/BoLaMN/loopback-component-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=bad",
+  "devDependencies": {
+    "coffee-script": "1.10.0",
+    "grunt": "^0.4.5",
+    "grunt-angular-templates": "^0.5.7",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-coffee": "~0.13.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "~0.8.1",
+    "grunt-contrib-less": "^1.1.0",
+    "grunt-contrib-sass": "^*",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express": "^1.4.1",
+    "grunt-ng-annotate": "^1.0.1",
+    "grunt-open": "^0.2.3",
+    "grunt-parallel": "^0.4.1",
+    "load-grunt-tasks": "^3.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "4deb0cb7606ea23d463817e2e98e63fa171eb494",
+    "tarball": "https://registry.npmjs.org/loopback-component-admin/-/loopback-component-admin-0.0.7.tgz"
+  },
+  "gitHead": "c90f4cb9b402c5c8782e33207c6bafba8a7f31f0",
+  "homepage": "https://github.com/BoLaMN/loopback-component-admin#readme",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "maintainers": [
+    {
+      "name": "bolamn",
+      "email": "nathan@bolamn.com"
+    }
+  ],
+  "name": "loopback-component-admin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoLaMN/loopback-component-admin.git"
+  },
+  "scripts": {},
+  "version": "0.0.7"
+}
