@@ -38,6 +38,12 @@ autocmd!
 
  au BufNewFile,BufRead *.twig set syntax=jinjahtml
  au BufNewFile,BufRead *.css set syntax=distinguished-modified
+ au BufRead,BufNewFile *.jade set syntax=jade
+ au BufRead,BufNewFile *.conf set syntax=nginx
+ au BufRead,BufNewFile *.pro set syntax=nginx
+ au BufRead,BufNewFile *.ca set syntax=nginx
+ au BufRead,BufNewFile *.com set syntax=nginx
+ autocmd BufRead,BufNewFile /etc/nginx/sites-*/* setfiletype nginx
 
  set backspace=eol,start,indent
  syntax enable
